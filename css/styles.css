@@ -107,3 +107,8 @@ body {
   margin: 0 auto;
   text-decoration: none;
 }
+
+.footer {
+  margin: 10px auto;
+  text-align: center;
+}
